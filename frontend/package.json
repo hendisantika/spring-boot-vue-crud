@@ -1,0 +1,24 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Spring Boot Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hendisantika/spring-boot-vue-crud.git"
+  },
+  "keywords": [
+    "Spring",
+    "Boot",
+    "VueJS"
+  ],
+  "author": "Hendi Santika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hendisantika/spring-boot-vue-crud/issues"
+  },
+  "homepage": "https://github.com/hendisantika/spring-boot-vue-crud#readme"
+}
