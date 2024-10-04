@@ -28,6 +28,9 @@ jobs:
         distribution: 'temurin'
         cache: maven
         
+    - name: Build with Maven for parent
+      run: mvn -B package --file pom.xml
+        
     - name: Build with Maven for backend
       run: mvn -B package --file backend/pom.xml
 
